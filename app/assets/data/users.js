@@ -7,7 +7,7 @@ export default [
       "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png",
     name: "Elon",
     handle: "elon",
-    bio: "hello",
+    bio: "Captivating temptress offering exclusive content and personalized fantasies. Indulge in Seductive Secrets' irresistible allure.",
     subscriptionPrice: 0,
   },
   {

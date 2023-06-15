@@ -32,6 +32,49 @@ const styles = StyleSheet.create({
     borderWidth: 3,
     marginRight: 20,
   },
+  userHandle: {
+    color: "white",
+  },
+  userName: {
+    color: "#fff",
+  },
+  cover: {
+    height: 200,
+    width: "100%",
+  },
+  overlay: {
+    ...StyleSheet.absoluteFillObject,
+    backgroundColor: "rgba(0,0,0, 0.5)",
+  },
+  profileIcon: {
+    height: 35,
+    width: 35,
+    borderWidth: 0.5,
+    borderColor: "#00AFF0",
+    borderRadius: 100,
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  buttonText: {
+    color: "#00AFF0",
+    fontWeight: 600,
+  },
+  btn: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    borderWidth: 1,
+    borderColor: "gainsboro",
+    paddingHorizontal: 20,
+    padding: 15,
+    borderRadius: 50,
+    marginVertical: 10,
+  },
+  postIcon: {
+    flexDirection: "row",
+    justifyContent: "center",
+    alignItems: "center",
+    
+  },
 });
 
 export default styles;
